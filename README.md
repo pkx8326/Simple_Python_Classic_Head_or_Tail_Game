@@ -1,0 +1,2 @@
+# Simple_Python_Classic_Head_or_Tail_Game
+This is a simple classic "Head or Tail" guessing game with Python. The user guess the result of or coin toss by typing "Head" or "Tail" as an input. The computer then shows the result. The user's input is then compared against the result to check if the player wins or loses. This game also gives summary about how many games the player has played, and how many wins and losses throughout those games.
